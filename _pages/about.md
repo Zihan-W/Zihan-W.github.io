@@ -5,7 +5,7 @@
  redirect_from: 
    - /about/
    - /about.html
- ---
+---
  
 I'm a fourth year undergraduate student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). Currently, my research interest includes reinforcement learning and robotics manipulation.
 
