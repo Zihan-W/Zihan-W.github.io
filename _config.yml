@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Zihan Wang （王子涵）"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "王子涵"
-  pronouns         : # example: "she/her"  
+  pronouns         : “he/his” # example: "she/her"  
   bio              : "reinforcement learning"
   location         : "Samara"
   employer         : # URL
@@ -247,6 +247,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      permalink: /
   # _teaching
   - scope:
       path: ""
